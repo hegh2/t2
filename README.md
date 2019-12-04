@@ -1,2 +1,2 @@
 # t2
-GitHub Workflow Exercie
+GitHub Workflow Exercise
